@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1 TVB新闻台
+#EXTINF:-1 group-title="tw频道",TVB新闻台
 http://pull-l3-cny.douyincdn.com/live/c8eff4963f336b2f831780fb09a37fb4.m3u8
-#EXTINF:-1 TVB华丽台
+#EXTINF:-1 group-title="tw频道",TVB华丽台
 http://pull-l3-cny.douyincdn.com/live/8f0f5b53f8ad921929fc9ac8771cbd82.m3u8
-#EXTINF:-1 TVB翡翠台
+#EXTINF:-1 group-title="tw频道",TVB翡翠台
 http://pull-l3-cny.douyincdn.com/live/1f41fa6570c0c2fe39fef0752f76de81.m3u8
-#EXTINF:-1 TVB明珠台
+#EXTINF:-1 group-title="tw频道",TVB明珠台
 http://pull-l3-cny.douyincdn.com/live/81c6196a626a87b4bc7a81d032b0bf7f.m3u8
 #EXTINF:-1 TVB财经台
 http://pull-l3-cny.douyincdn.com/live/beb24d452126196227a4c183337d6bfd.m3u8

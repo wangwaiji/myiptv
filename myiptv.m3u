@@ -1,32 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="tw频道",TVB新闻台
-http://pull-l3-cny.douyincdn.com/live/c8eff4963f336b2f831780fb09a37fb4.m3u8
-#EXTINF:-1 group-title="tw频道",TVB华丽台
-http://pull-l3-cny.douyincdn.com/live/8f0f5b53f8ad921929fc9ac8771cbd82.m3u8
-#EXTINF:-1 group-title="tw频道",TVB翡翠台
-http://pull-l3-cny.douyincdn.com/live/1f41fa6570c0c2fe39fef0752f76de81.m3u8
-#EXTINF:-1 group-title="tw频道",TVB明珠台
-http://pull-l3-cny.douyincdn.com/live/81c6196a626a87b4bc7a81d032b0bf7f.m3u8
-#EXTINF:-1 TVB财经台
-http://pull-l3-cny.douyincdn.com/live/beb24d452126196227a4c183337d6bfd.m3u8
-#EXTINF:-1 TVB星河台
-http://pull-l3-cny.douyincdn.com/live/d40c919171cfc73cf4de67fc381cbc3e.m3u8
-#EXTINF:-1 now新闻台
-http://pull-l3-cny.douyincdn.com/live/f49db49809a6d8e96047011ee9160bc8.m3u8
-#EXTINF:-1 now财经台
-http://pull-l3-cny.douyincdn.com/live/60b4bda9cef7c62d547a8c2ca1ca9c2c.m3u8
-#EXTINF:-1 now直播台
-http://pull-l3-cny.douyincdn.com/live/fc910419627cee83895e03d74029cbb4.m3u8
-#EXTINF:-1 有线财经台
-http://pull-l3-cny.douyincdn.com/live/6cce73798021d977d916afacf1caba36.m3u8
-#EXTINF:-1 有线直播台
-http://pull-l3-cny.douyincdn.com/live/1696778d64f00f3f9c0aefe3b2136ffe.m3u8
-#EXTINF:-1 有线新闻台
-http://pull-l3-cny.douyincdn.com/live/3ce3ba86a40b1b2055eeda4f8cf6517e.m3u8
-#EXTINF:-1 中天新闻台
-http://pull-l3-cny.douyincdn.com/live/7898d38d54c60879ba96a1fa42edbd53.m3u8
-#EXTINF:-1 中天综合台
-http://pull-l3-cny.douyincdn.com/live/5f26752efeee9e0c53cf6b530640ce60.m3u8
 #EXTINF:-1 group-title="体育频道",CCTV5-高清(1)
 http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
 #EXTINF:-1 group-title="体育频道",CCTV5-高清(2)

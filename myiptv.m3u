@@ -69,6 +69,36 @@ http://2022.stream-link.org/playlist/cti_news
 http://r.jdshipin.com/qClQf
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" group-title="外网",明珠台
 http://r.jdshipin.com/ZQ4kN
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1087/d8/db4df6801dd4325b5414d571a4de4b_180_135.jpg?1527399098" group-title="DOTA1",徐先森
+https://epg.112114.xyz/huya/376659
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1077/4f/96175b17a758f984dec1429b593963_180_135.jpg?1548932096" group-title="DOTA1",大熊小清新
+https://epg.112114.xyz/huya/585800
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1018/ce/cd9b2f525bb84febfc22fff478f2f6_180_135.jpg?1481219124" group-title="DOTA1",90357 荒年
+https://epg.112114.xyz/huya/676673
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1011/a3/e107bdc40274647a28916fedf12fc1_180_135.jpg?1636410321" group-title="DOTA1",龙少dota之路
+https://epg.112114.xyz/huya/22306636
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1083/11/c8b4b1633dd05c234ae64a1810657b_180_135.jpg?1576468272" group-title="DOTA1",杨凯pk4
+https://epg.112114.xyz/huya/991159
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1037/04/ce54d448c02e957c718c10c34e8c57_180_135.jpg" group-title="DOTA1",90357弑神
+https://epg.112114.xyz/huya/646954
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1057/15/75dc9bcf78abfa4c1e5e2537089a99_180_135.jpg" group-title="DOTA1",乖
+https://epg.112114.xyz/huya/347444
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1064/1f/52e3416e6170802f9e7ca7fda38092_180_135.jpg?1641565919" group-title="DOTA1",77大小姐丶
+https://epg.112114.xyz/huya/935698
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1089/b5/c791965b518b148f0dc8c2b899901b_180_135.jpg?1556540233" group-title="DOTA1",Dota小无双
+https://epg.112114.xyz/huya/10401302
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1063/4b/f67ff206343a96c51e4d01f591ae63_180_135.jpg?1660477025" group-title="DOTA1",兔兔兔兔兔子呀
+https://epg.112114.xyz/huya/22044467
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1014/bf/46b3e8792a748ceaa37dd5df485da8_180_135.jpg?1607121810" group-title="DOTA1",湾区丶奔哥
+https://epg.112114.xyz/huya/19614952
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1090/4b/efd128e873157a0fbb2d53ec7fd949_180_135.jpg?1638908470" group-title="DOTA1",星鹿丶以神【ST】
+https://epg.112114.xyz/huya/25929834
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1016/05/3033c63d35b2c976117c076e7fb358_180_135.jpg?1620027513" group-title="DOTA1",倔犟小毛驴
+https://epg.112114.xyz/huya/23923842
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1016/66/9dda459c386fe39ab1d89b108b99ca_180_135.jpg?1568562731" group-title="DOTA1",90357丶女王若
+https://epg.112114.xyz/huya/537742
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1057/cb/073bddee4f2546520f9b5718ad07ff_180_135.jpg?1611782673" group-title="DOTA1",牛牛
+https://epg.112114.xyz/huya/962825
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="4K频道",CCTV16-4K
 http://192.168.5.1:5678/bestv.php?id=cctv16hd4k/15000000
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="4K频道",CCTV-4K
@@ -161,17 +191,3 @@ http://192.168.5.1:5678/bestv.php?id=ynwshd8m/8000000
 http://192.168.5.1:5678/bestv.php?id=gzwshd8m/8000000
 #EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://epg.112114.xyz/logo/海南卫视.png" group-title="卫视",海南卫视
 http://192.168.5.1:5678/bestv.php?id=hainanwshd8m/8000000
-#EXTINF:-1 tvg-id="上视新闻" tvg-name="上视新闻" tvg-logo="https://epg.112114.xyz/logo/上视新闻.png" group-title="其他",上视新闻
-http://192.168.5.1:5678/bestv.php?id=xwzhhd8m/8000000
-#EXTINF:-1 tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://epg.112114.xyz/logo/上海都市.png" group-title="上海",上海都市
-http://192.168.5.1:5678/bestv.php?id=dshd8m/8000000
-#EXTINF:-1 tvg-id="上海纪实" tvg-name="上海纪实" tvg-logo="https://epg.112114.xyz/logo/上海纪实.png" group-title="上海",上海纪实
-http://192.168.5.1:5678/bestv.php?id=jspdhd/4000000
-#EXTINF:-1 tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://epg.112114.xyz/logo/游戏风云.png" group-title="其他",游戏风云
-http://192.168.5.1:5678/bestv.php?id=yxfy8m/8000000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/热门综艺.png" group-title="其他",热门综艺
-http://192.168.5.1:5678/bestv.php?id=rmzy8m/8000000
-#EXTINF:-1 tvg-id="NEWTV超级体育" tvg-name="NEWTV超级体育" tvg-logo="https://epg.112114.xyz/logo/NEWTV超级体育.png" group-title="其他",超级体育
-http://192.168.5.1:5678/bestv.php?id=qcsj8m/8000000
-#EXTINF:-1 tvg-id="电竞天堂" tvg-name="电竞天堂" tvg-logo="https://epg.112114.xyz/logo/电竞天堂.png" group-title="其他",电竞天堂
-http://192.168.5.1:5678/bestv.php?id=djtt8m/8000000
